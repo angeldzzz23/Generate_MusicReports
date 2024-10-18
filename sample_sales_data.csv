@@ -1,0 +1,101 @@
+Sale Start date,Sale End date,Reporting Label,Source,Asset Artist,Product Title,Your Earnings
+2024-03-22,2024-04-08,Label D,YouTube,Artist 4,Song B,137.42
+2023-07-15,2023-07-28,Label A,Amazon Music,Artist 3,Song C,2071.96
+2023-08-09,2023-08-19,Label C,YouTube,Artist 2,Song C,1101.98
+2023-05-18,2023-06-09,Label C,Spotify,Artist 4,Song B,3386.5
+2023-09-06,2023-10-05,Label B,Apple Music,Artist 2,Song D,1289.29
+2023-12-29,2024-01-11,Label A,Amazon Music,Artist 4,Song C,4182.17
+2023-11-15,2023-11-28,Label C,Apple Music,Artist 1,Song C,1284.01
+2023-07-15,2023-08-04,Label B,YouTube,Artist 2,Song A,4479.26
+2023-02-19,2023-03-07,Label B,Apple Music,Artist 2,Song A,337.26
+2024-05-03,2024-05-08,Label C,Amazon Music,Artist 2,Song C,2689.39
+2023-01-19,2023-02-07,Label A,Apple Music,Artist 5,Song B,456.22
+2023-05-08,2023-05-20,Label B,YouTube,Artist 5,Song D,3827.66
+2023-11-20,2023-12-17,Label B,Amazon Music,Artist 4,Song B,4811.34
+2023-12-06,2024-01-03,Label B,YouTube,Artist 2,Song E,2567.19
+2023-01-24,2023-02-03,Label D,Amazon Music,Artist 2,Song E,3890.28
+2024-03-20,2024-04-10,Label D,Apple Music,Artist 4,Song A,1292.94
+2024-02-20,2024-03-03,Label C,Apple Music,Artist 2,Song C,2032.29
+2023-05-20,2023-06-16,Label D,Apple Music,Artist 1,Song B,635.9
+2024-02-14,2024-02-17,Label B,YouTube,Artist 4,Song A,1438.44
+2024-03-19,2024-03-31,Label C,Amazon Music,Artist 2,Song D,2612.35
+2023-07-24,2023-08-15,Label C,YouTube,Artist 5,Song C,2234.52
+2024-09-08,2024-09-19,Label A,Amazon Music,Artist 1,Song E,3039.37
+2024-04-19,2024-04-25,Label A,Apple Music,Artist 4,Song D,1156.38
+2023-03-16,2023-03-22,Label A,YouTube,Artist 2,Song B,4875.71
+2024-03-26,2024-04-07,Label D,Apple Music,Artist 5,Song A,4683.53
+2023-06-29,2023-07-18,Label B,Spotify,Artist 2,Song B,902.38
+2023-10-12,2023-11-02,Label A,Spotify,Artist 3,Song A,2155.56
+2023-01-09,2023-02-06,Label A,Spotify,Artist 5,Song C,1945.46
+2024-03-18,2024-03-22,Label D,Amazon Music,Artist 4,Song B,3130.58
+2023-02-21,2023-03-05,Label B,Amazon Music,Artist 2,Song B,4616.22
+2024-07-07,2024-07-18,Label D,Amazon Music,Artist 1,Song C,717.53
+2023-05-22,2023-06-14,Label D,YouTube,Artist 3,Song E,259.4
+2023-05-17,2023-05-22,Label D,YouTube,Artist 4,Song C,1319.4
+2023-01-25,2023-02-04,Label B,YouTube,Artist 5,Song E,2395.42
+2023-04-19,2023-04-22,Label C,Amazon Music,Artist 4,Song C,952.52
+2023-10-21,2023-11-14,Label C,Amazon Music,Artist 1,Song A,4890.21
+2024-04-05,2024-04-18,Label D,YouTube,Artist 4,Song D,4469.89
+2023-01-01,2023-01-12,Label C,Spotify,Artist 4,Song B,2327.79
+2023-07-20,2023-08-03,Label B,YouTube,Artist 4,Song E,2997.65
+2024-06-11,2024-06-16,Label A,Apple Music,Artist 1,Song E,2996.53
+2024-06-19,2024-06-27,Label B,Apple Music,Artist 1,Song E,3937.58
+2023-03-01,2023-03-30,Label B,YouTube,Artist 2,Song E,2036.07
+2024-01-16,2024-02-14,Label A,Apple Music,Artist 3,Song E,1502.8
+2023-10-27,2023-11-10,Label C,Spotify,Artist 2,Song E,753.49
+2023-03-01,2023-03-10,Label B,Amazon Music,Artist 4,Song E,1678.24
+2023-05-13,2023-05-26,Label C,Amazon Music,Artist 1,Song C,3454.95
+2024-07-27,2024-08-12,Label A,Apple Music,Artist 4,Song B,1958.93
+2023-10-23,2023-10-30,Label C,Spotify,Artist 4,Song E,1078.64
+2024-08-07,2024-08-20,Label C,Amazon Music,Artist 1,Song B,593.25
+2024-08-30,2024-09-03,Label B,Spotify,Artist 2,Song C,2068.95
+2024-07-30,2024-08-08,Label D,Apple Music,Artist 5,Song C,1222.02
+2023-08-09,2023-08-20,Label D,Amazon Music,Artist 5,Song B,4974.11
+2024-08-25,2024-09-16,Label B,YouTube,Artist 5,Song D,1474.35
+2023-06-12,2023-06-27,Label D,Amazon Music,Artist 3,Song D,927.07
+2023-12-30,2024-01-19,Label D,Apple Music,Artist 4,Song A,3095.12
+2024-04-09,2024-05-08,Label A,YouTube,Artist 5,Song C,4602.75
+2023-08-03,2023-08-25,Label A,Apple Music,Artist 1,Song B,2286.88
+2023-01-29,2023-02-15,Label B,Apple Music,Artist 1,Song D,1128.59
+2023-07-02,2023-07-29,Label A,YouTube,Artist 5,Song D,4398.0
+2024-08-15,2024-09-01,Label B,YouTube,Artist 3,Song A,4683.76
+2023-08-01,2023-08-11,Label B,Apple Music,Artist 4,Song B,2238.32
+2023-01-18,2023-02-02,Label B,Spotify,Artist 1,Song B,2961.72
+2023-08-24,2023-08-28,Label A,Spotify,Artist 3,Song C,1003.12
+2023-07-15,2023-08-13,Label C,YouTube,Artist 3,Song D,3961.03
+2023-07-27,2023-08-12,Label D,YouTube,Artist 3,Song A,659.51
+2023-10-09,2023-10-25,Label D,Spotify,Artist 4,Song B,1060.05
+2024-09-16,2024-09-19,Label B,Amazon Music,Artist 4,Song D,2703.33
+2024-01-24,2024-02-02,Label C,Apple Music,Artist 2,Song B,2414.56
+2024-04-06,2024-05-02,Label C,Amazon Music,Artist 2,Song E,4361.07
+2024-06-23,2024-07-17,Label D,Spotify,Artist 2,Song D,4146.84
+2024-07-22,2024-07-27,Label B,Amazon Music,Artist 2,Song A,1940.85
+2024-03-15,2024-03-16,Label C,Apple Music,Artist 4,Song A,1499.28
+2023-10-08,2023-10-24,Label B,YouTube,Artist 3,Song C,248.54
+2024-06-25,2024-07-23,Label C,Apple Music,Artist 5,Song C,2008.76
+2024-04-21,2024-04-23,Label B,Apple Music,Artist 3,Song A,2277.07
+2023-12-15,2023-12-28,Label B,Amazon Music,Artist 4,Song D,2297.29
+2024-06-26,2024-07-07,Label C,Spotify,Artist 5,Song E,2477.68
+2023-10-04,2023-10-26,Label D,Apple Music,Artist 1,Song E,1356.75
+2023-10-14,2023-11-07,Label C,Apple Music,Artist 4,Song E,2310.14
+2023-09-16,2023-09-21,Label C,Amazon Music,Artist 4,Song E,1561.32
+2023-05-02,2023-05-16,Label C,Spotify,Artist 2,Song C,803.38
+2024-01-04,2024-01-06,Label C,Amazon Music,Artist 4,Song C,1275.78
+2024-04-05,2024-04-10,Label B,Spotify,Artist 4,Song A,1633.54
+2024-08-10,2024-08-18,Label C,YouTube,Artist 5,Song D,2637.09
+2024-07-26,2024-07-27,Label A,YouTube,Artist 3,Song E,2227.47
+2023-04-23,2023-05-05,Label C,Spotify,Artist 1,Song A,4574.87
+2024-03-09,2024-04-08,Label B,YouTube,Artist 4,Song A,206.26
+2023-11-25,2023-12-07,Label A,Amazon Music,Artist 2,Song A,3045.85
+2024-01-01,2024-01-27,Label A,Amazon Music,Artist 3,Song A,3379.91
+2024-09-24,2024-10-23,Label C,Amazon Music,Artist 1,Song B,2347.52
+2023-12-15,2024-01-06,Label B,Spotify,Artist 1,Song A,1510.03
+2024-06-21,2024-07-20,Label C,YouTube,Artist 2,Song B,4859.18
+2024-03-29,2024-04-05,Label B,Apple Music,Artist 3,Song D,404.46
+2024-08-13,2024-09-04,Label C,Apple Music,Artist 3,Song C,3511.61
+2023-11-05,2023-11-18,Label C,YouTube,Artist 5,Song E,3429.74
+2024-07-17,2024-08-02,Label B,YouTube,Artist 3,Song C,2896.39
+2024-03-19,2024-04-07,Label D,Spotify,Artist 2,Song A,3502.42
+2023-08-29,2023-09-28,Label B,Apple Music,Artist 2,Song C,4819.39
+2024-01-22,2024-01-29,Label D,Spotify,Artist 2,Song E,3545.24
+2024-05-23,2024-06-07,Label B,Amazon Music,Artist 2,Song B,3318.51
